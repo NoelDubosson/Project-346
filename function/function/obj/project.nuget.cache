@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIlh/p28nV4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josia.schweizer\\Downloads\\function\\function\\function.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\amazon.lambda.s3events\\3.1.0\\amazon.lambda.s3events.3.1.0.nupkg.sha512",
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\amazon.lambda.serialization.json\\2.2.4\\amazon.lambda.serialization.json.2.2.4.nupkg.sha512",
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\awssdk.core\\3.7.400.61\\awssdk.core.3.7.400.61.nupkg.sha512",
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\awssdk.s3\\3.7.410.3\\awssdk.s3.3.7.410.3.nupkg.sha512",
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

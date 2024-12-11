@@ -1,0 +1,5 @@
+C:\Users\josia.schweizer\Downloads\function\function\obj\Debug\net8.0\function.csproj.AssemblyReference.cache
+C:\Users\josia.schweizer\Downloads\function\function\obj\Debug\net8.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia.schweizer\Downloads\function\function\obj\Debug\net8.0\function.AssemblyInfoInputs.cache
+C:\Users\josia.schweizer\Downloads\function\function\obj\Debug\net8.0\function.AssemblyInfo.cs
+C:\Users\josia.schweizer\Downloads\function\function\obj\Debug\net8.0\function.csproj.CoreCompileInputs.cache
