@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAnMGEayFLc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josia.schweizer\\iCloudDrive\\02_Schule\\01_GBS\\Project-346\\Project346LambdaFunction\\src\\Project346LambdaFunction\\Project346LambdaFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\josia.schweizer\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.8\\microsoft.netcore.app.crossgen2.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

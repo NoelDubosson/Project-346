@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\josia.schweizer\\iCloudDrive\\02_Schule\\01_GBS\\Project-346\\Project346LambdaFunction\\src\\Project346LambdaFunction\\Project346LambdaFunction.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\josia.schweizer\\iCloudDrive\\02_Schule\\01_GBS\\Project-346\\Project346LambdaFunction\\src\\Project346LambdaFunction\\Project346LambdaFunction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josia.schweizer\\iCloudDrive\\02_Schule\\01_GBS\\Project-346\\Project346LambdaFunction\\src\\Project346LambdaFunction\\Project346LambdaFunction.csproj",
+        "projectName": "Project346LambdaFunction",
+        "projectPath": "C:\\Users\\josia.schweizer\\iCloudDrive\\02_Schule\\01_GBS\\Project-346\\Project346LambdaFunction\\src\\Project346LambdaFunction\\Project346LambdaFunction.csproj",
+        "packagesPath": "C:\\Users\\josia.schweizer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josia.schweizer\\iCloudDrive\\02_Schule\\01_GBS\\Project-346\\Project346LambdaFunction\\src\\Project346LambdaFunction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\josia.schweizer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[8.0.8, 8.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
